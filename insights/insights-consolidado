@@ -1,0 +1,90 @@
+# **Desafio de Data Analytics: Analisando Vendas Globais da Meganium**
+
+### **Introdução**
+A Meganium, fabricante de consoles de videogame, deseja extrair insights estratégicos de seus dados de vendas globais. Atualmente, a empresa foca exclusivamente na fabricação dos produtos, delegando a distribuição e a venda a terceiros. O objetivo do desafio é transformar dados brutos em informações valiosas para otimizar a produção, aumentar a eficiência logística e impulsionar as vendas.
+
+![Análise de Dados](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+
+
+
+## **📊 Análise e Insights**
+
+### **1️⃣ Transformando Dados em Insights Valiosos**
+
+Os dados analisados incluem:
+- **SKU** (Identificação do produto)
+- **Produto vendido**
+- **Data da venda**
+- **Quantidade vendida**
+- **Preço unitário e total**
+- **Moeda da transação**
+- **Empresa terceira (marketplace)**
+- **Desconto aplicado e valor do desconto**
+- **País de entrega**
+
+#### **📌 Insights**
+- A maioria das vendas ocorre entre **maio e outubro**, com um **pico em agosto**.
+<br>
+
+
+- Produtos com descontos acima de **10%** apresentam volumes de venda superiores.
+- Alguns modelos apresentam baixa adesão e precisam de estratégias de marketing.
+
+
+
+---
+
+### **2️⃣ Produtos Mais Populares por País**
+
+| **País**       | **Produto Mais Vendido**         | **Quantidade Vendida** |
+|--------------|--------------------------------|--------------------|
+| Austrália   | NEW MEGANIUM RG CubeXX        | 13                 |
+| Canadá      | NEW MEGANIUM RG 40XXV         | 19                 |
+| França      | NEW MEGANIUM RG35XX           | 12                 |
+| Alemanha    | NEW MEGANIUM RG 40XXV         | 7                  |
+| Japão       | NEW MEGANIUM RG 40XXV         | 11                 |
+| Reino Unido | NEW MEGANIUM RG35XX           | 7                  |
+| EUA         | MEGANIUM RG353M               | 4                  |
+
+📌 **Insights:**
+- O **NEW MEGANIUM RG 40XXV** é o modelo mais popular globalmente.
+- O **MEGANIUM RG353M** tem um nicho específico nos EUA.
+- Campanhas regionais podem impulsionar vendas de modelos menos vendidos.
+
+
+
+---
+
+### **3️⃣ Otimizando Transporte e Logística**
+
+| **Ano** | **Mês** | **Quantidade Vendida** |
+|--------|--------|--------------------|
+| 2024   | Maio   | 11                 |
+| 2024   | Junho  | 20                 |
+| 2024   | Julho  | 25                 |
+| 2024   | Agosto | 47                 |
+| 2024   | Setembro | 37                 |
+| 2024   | Outubro  | 38                 |
+
+📌 **Insights:**
+- Produção deve ser **ajustada para atender o pico de demanda** entre junho e agosto.
+- Estoques precisam ser reforçados antes do período crítico.
+- Logística deve ser intensificada para evitar rupturas.
+
+giphy.com/media/l0HlN2PIy0WgZp1ri/giphy.gif)
+
+---
+
+## **📌 Conclusão**
+
+A análise de dados revelou padrões críticos para a tomada de decisão da Meganium. 
+
+✅ **Ações Recomendadas:**
+- Ajustar a produção e logística conforme sazonalidade.
+- Intensificar campanhas promocionais regionais.
+- Expandir a distribuição dos modelos mais vendidos.
+
+🚀 **Desafio Concluído com Sucesso!** 🎯
+
+
+

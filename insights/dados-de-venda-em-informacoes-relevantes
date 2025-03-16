@@ -1,0 +1,67 @@
+<div align="center">
+
+# 📊 **Objetivo 1: Transformar Dados de Venda em Informações Relevantes para a Fabricante**
+
+---
+
+### **🛒 Receita por Produto**
+
+| **Produto**               | **Receita Total (USD)** |
+|---------------------------|-------------------------|
+| NEW MEGANIUM RG 40XXV     | 4,100                  |
+| NEW MEGANIUM RG35XX       | 3,240                  |
+| MEGANIUM RG353M           | 3,190                  |
+| NEW MEGANIUM RG CubeXX    | 2,880                  |
+| NEW MEGANIUM RG28XX       | 2,520                  |
+
+</div>
+
+<div align="center">
+
+**🔍 Insights:**  
+O **NEW MEGANIUM RG 40XXV** é o produto mais lucrativo, indicando uma alta aceitação do público.  
+O **NEW MEGANIUM RG CubeXX** e o **MEGANIUM RG353M** também apresentam vendas significativas, sugerindo um interesse equilibrado entre modelos diferentes.
+
+---
+
+### 🌍 **Receita por País**
+
+| **País**      | **Receita Total (USD)** |
+|---------------|-------------------------|
+| Canadá        | 4,090                  |
+| França        | 3,210                  |
+| Japão         | 2,510                  |
+| Austrália     | 2,330                  |
+| Alemanha      | 2,010                  |
+
+</div>
+
+<div align="center">
+
+**🔍 Insights:**  
+O **Canadá** lidera em receita, sendo um mercado-chave para a fabricante.  
+**França** e **Japão** são mercados expressivos, indicando oportunidades para campanhas focadas nesses países.
+
+---
+
+### 📅 **Receita por Mês**
+
+| **Mês**       | **Receita Total (USD)** |
+|---------------|-------------------------|
+| 2024-05       | 1,040                  |
+| 2024-06       | 1,770                  |
+| 2024-07       | 2,300                  |
+| 2024-08       | 4,310                  |
+| 2024-09       | 3,430                  |
+
+</div>
+
+<div align="center">
+
+**🔍 Insights:**  
+Houve um crescimento nas vendas a partir de junho, com pico em **agosto**.  
+Isso pode estar relacionado a sazonalidade, promoções ou lançamentos.
+
+---
+
+###

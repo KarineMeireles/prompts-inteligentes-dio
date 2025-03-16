@@ -1,0 +1,61 @@
+# 📊 **Documentação: Prompts Utilizados para Análise de Vendas**  
+
+---
+
+<p align="center">
+    <img src="https://img.icons8.com/external-flat-juicy-fish/64/000000/external-reporting-business-and-finance-flat-flat-juicy-fish.png" alt="Relatório">
+</p>
+
+## 📚 **Menu Interativo**
+1. [Introdução](#introdução)  
+2. [Objetivos e Prompts](#objetivos-e-prompts)  
+   - [Transformar Dados de Vendas](#1️⃣-transformar-dados-de-vendas)  
+   - [Produtos Mais Populares](#2️⃣-produtos-mais-populares)  
+   - [Otimização de Transporte e Logística](#3️⃣-otimização-de-transporte-e-logística)  
+3. [Conclusão](#🚀-conclusão)  
+4. [Recursos Adicionados](#🌟-recursos-adicionados)  
+
+---
+
+## 📋 **Introdução**
+Este documento descreve os **prompts estratégicos** utilizados para gerar relatórios analíticos dos dados de vendas da fabricante de consoles **Meganium**. O objetivo é traduzir dados brutos em insights valiosos para alinhar decisões estratégicas com os objetivos de negócio.
+
+---
+
+## 🎯 **Objetivos e Prompts**
+
+### 1️⃣ **Transformar Dados de Vendas**
+**Prompt**:
+```markdown
+Objetivo: Transformar dados de vendas em informações úteis para a fabricante...
+```
+**🔍 Insights Capturados**:
+- O **NEW MEGANIUM RG 40XXV** é o produto mais lucrativo.
+- **Tendências sazonais** indicam picos de vendas em agosto.
+
+### 2️⃣ **Produtos Mais Populares**
+**Prompt**:
+```markdown
+Objetivo: Identificar os produtos mais populares em cada país...
+```
+**📊 Tabela Resumo**:
+| País       | Produto Mais Vendido      | Receita Gerada |
+|------------|---------------------------|----------------|
+| **Canadá** | NEW MEGANIUM RG 40XXV     | $4.090         |
+| **Japão**  | NEW MEGANIUM RG 40XXV     | $2.510         |
+
+### 3️⃣ **Otimização de Transporte e Logística**
+**Prompt**:
+```markdown
+Objetivo: Otimizar transporte com base em picos de venda...
+```
+**🔍 Resultados**:
+- Demanda **cresce significativamente** de junho a agosto.
+- Estoques devem ser reforçados antes do período de alta demanda.
+
+---
+
+## 🚀 **Conclusão**
+Os prompts descritos foram essenciais para transformar dados em insights estratégicos, facilitando decisões de marketing, produção e logística. 
+
+
